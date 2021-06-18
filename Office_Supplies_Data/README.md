@@ -1,7 +1,6 @@
 # Simple Bar Plot
 I created a simple bar plot in Tableau using data given containing office supply sales by representative, geographic region, units, and unit price.
 I then created a calculated field for the "total sales" column by multiplying units and unit price.
-
 <br/>
 
 This data set was given to me in a course on Udemy called **Tableau 2020 A-Z: Hands-On Tableau Training for Data Science**.
