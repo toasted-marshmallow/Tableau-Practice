@@ -1,7 +1,4 @@
 # Long-Term Unemployment (United States): Sample Area Plot
-
-
-# Simple Bar Plot
 This is an area plot of the United States long-term unemployment statistics. I've included filters for age and gender, which are able to be interacted with on the Tableau Public website.
 <br/>
 
