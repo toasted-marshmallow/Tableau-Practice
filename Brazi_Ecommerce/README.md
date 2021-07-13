@@ -14,3 +14,5 @@ Udemy Course: https://www.udemy.com/course/tableau10/?ranMID=39197&ranEAID=E7g%2
 Data Sets: https://www.superdatascience.com/pages/tableau
 <br>
 Tableau Public: https://public.tableau.com/profile/nathan.nguyen4469#!/
+<br>
+Data on Kaggle: https://www.kaggle.com/olistbr/brazilian-ecommerce
