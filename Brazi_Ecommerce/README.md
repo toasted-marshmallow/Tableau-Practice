@@ -1,6 +1,6 @@
-# Interactive Geographic Map - Brazilian Ecommmercce Data
+# Interactive Geographic Map - Brazilian Ecommmerce Data
 This map was created using datasets containing Brazilian ecommerce data that can be found on Kaggle or at the links shown below. We have plotted sales by zip, state, long/lat, containing sales data.
-The size of the circle shows the magnitude of sales and the colour just highlights the different states in Brazil. The main purpose of this exercise was to practice data modelling i.e., connecting several datasets together in a meaningful manner. 
+The size of the circle shows the magnitude of sales and the colour just highlights the different states in Brazil. The main purpose of this exercise was to **practice data modelling** i.e., connecting several datasets together in a meaningful manner. 
 This is rather easy to accomplish in Tableau via relationship functions. 
 <br/>
 
