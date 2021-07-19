@@ -1,5 +1,5 @@
 # Customer Segmentation Dashboard -- United Kingdom Bank Toy Data
-This dashboard consists of charts of multiple types. Data cleaning skills were practiced e.g., fixing geographic roles, tidying data etc. A storyline was also created for this dashboard as well containing simple insights on the toy data set. 
+This dashboard consists of charts of multiple types. Data cleaning skills were practiced e.g., fixing geographic roles, tidying data etc. A storyline was also created for this dashboard as well containing simple insights on the toy data set. The dashboard is also interactive, as filters were implemented e.g., you can look at the customers based on the region in the United Kingdom, job classification, age group, balance held, etc.
 <br/>
 
 This data set was given to me in a course on Udemy called **Tableau 2020 A-Z: Hands-On Tableau Training for Data Science**.
