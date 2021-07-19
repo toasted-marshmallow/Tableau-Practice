@@ -1,4 +1,4 @@
-# Customer Segmentation Dashboard -- United Kingdom Bank Toy Daata
+# Customer Segmentation Dashboard -- United Kingdom Bank Toy Data
 This dashboard consists of charts of multiple types. Data cleaning skills were practiced e.g., fixing geographic roles, tidying data etc. A storyline was also created for this dashboard as well containing simple insights on the toy data set. 
 <br/>
 
